@@ -81,7 +81,7 @@ The following animation demonstrates the desired application functionality:
 
 ## Questions?
 
-If you have any questions related with thisNoSQL-Social-Network-API, feel free to reach me through:
+If you have any questions related with this NoSQL-Social-Network-API, feel free to reach me through:
 
 Email:[fibarrafdec@gmail.com](fibarrafdec@gmail.com)
 
