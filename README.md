@@ -12,6 +12,7 @@ NoSQL-Social-Network-API is an API for a social network web application where us
 - [User Story](#User-Story)
 - [Acceptance Criteria](#Acceptance-Criteria)
 - [GIF](#GIF)
+- [Walkthrough Video](#Walkthrough-Video)
 - [Installation Instructions](#Installation-Instructions)
 - [Usage Instructions](#Usage-Instructions)
 - [Technologies Used](#Technologies-Used)
@@ -52,6 +53,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 The following animation demonstrates the desired application functionality:
 ![Note Taker functionality](./Public/assets/images/18-nosql-homework-demo-01.gif)
+
+## Walkthrough Video:
+[Click Here to Watch](https://drive.google.com/file/d/1SOhVvnarDO4qcXN0eh3zKB87BdheWAt8/view?usp=sharing)
 
 ## Installation Instructions
 
